@@ -1,2 +1,2 @@
 # ciscoIOS
-This is a repository dedicate to cisco IOS command implementations. 
+This is a repository dedicated to cisco IOS command implementations. 
