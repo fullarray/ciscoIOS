@@ -1,0 +1,5 @@
+#This assumes the router does not have login settings configured yet. 
+
+enable
+config terminal
+hostname [RouterName]
